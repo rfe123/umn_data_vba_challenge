@@ -28,3 +28,16 @@ Use the sheet alphabetical_testing.xlsx while developing your code. This dataset
 
 Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
 
+RESULTS
+
+2018
+
+<img width="1045" alt="image" src="https://github.com/rfe123/umn_data_vba_challenge/assets/59402267/906bae7a-6c6f-4d15-93e2-92c6ae6710b5">
+
+2019
+
+<img width="1048" alt="image" src="https://github.com/rfe123/umn_data_vba_challenge/assets/59402267/0a8fa87f-466f-45ad-8904-522a16d93151">
+
+2020
+
+<img width="1053" alt="image" src="https://github.com/rfe123/umn_data_vba_challenge/assets/59402267/162f78bd-f7d5-4d1d-a6ef-937c8a878c66">
