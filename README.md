@@ -36,8 +36,8 @@ RESULTS
 
 2019
 
-<img width="1048" alt="image" src="https://github.com/rfe123/umn_data_vba_challenge/assets/59402267/0a8fa87f-466f-45ad-8904-522a16d93151">
+<img width="1053" alt="image" src="https://github.com/rfe123/umn_data_vba_challenge/assets/59402267/162f78bd-f7d5-4d1d-a6ef-937c8a878c66">
 
 2020
 
-<img width="1053" alt="image" src="https://github.com/rfe123/umn_data_vba_challenge/assets/59402267/162f78bd-f7d5-4d1d-a6ef-937c8a878c66">
+<img width="1048" alt="image" src="https://github.com/rfe123/umn_data_vba_challenge/assets/59402267/0a8fa87f-466f-45ad-8904-522a16d93151">
