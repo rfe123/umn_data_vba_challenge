@@ -33,14 +33,19 @@ SUMMARY
 The solution leverages one Sub, containing several Loops. These loops are described as follows:
 
 Loop through each Worksheet in the provided file.
+
   Iterate through the rows in the initial table - assuming the table is sorted by Ticker Symbol, then date.
+  
     Store the row # of the first entry for a ticker symbol.
+    
     When the ticker changes, summarize the data in the rows from first entry to now.
       Difference between start and end price
       Percent change between start and end price
       Sum of Total Volume column in this Range.
       Print these results with the ticker symbol in a new summary table.
+      
   Iterate through the Ticker symbol results
+  
     Use Sort to capture the largest % Difference profit and % Difference loss.
     Use Sort to capture the largest total Trade Volume
     Output these results to a new Summary Table
